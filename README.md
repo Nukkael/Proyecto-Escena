@@ -1,7 +1,7 @@
 # Proyecto-Graficas-Computacionales
 
 En este proyecto se utilizara Unity para generar una escena donde se representara una "escena de crimen" simple y estilizada.
-Se podra explorar la escena mediante un personaje controlado por el usuario y tambien se podra cambiar la vision de la escena a x-ray y termica.
+Se podra explorar la escena mediante un personaje controlado por el usuario y tambien se podra cambiar la vision de la escena a x-ray.
 
 Referencias:
 
